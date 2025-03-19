@@ -43,6 +43,6 @@ def symbol_choice():
     
     return player1, player2
     
-# a, b = symbol_choice()
+a, b = symbol_choice()
 # print(f'{a}  {b}')
     

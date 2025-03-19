@@ -9,6 +9,18 @@ from IPython import get_ipython
 import time
 
 def symbol_choice():
+    '''
+    This is the function that allows players to choose the symbol
+    that they will have on the game.
+
+    Returns
+    -------
+    player1 : string
+        Used to store the symbol choice of First Player.
+    player2 : type
+        Used to store the left symbol choice of Second Player.
+
+    '''
     player1 = ''
     player2 = ''
     

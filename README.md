@@ -1,4 +1,4 @@
-# TicTacToe
+# TicTacToe Game
 This is the code for a simple tic-tac-toe game developed with Python!
 
 -- TicTacToeAll.ipynb is the code of the game developed on jupyter notebook.

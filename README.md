@@ -9,4 +9,4 @@ This is the code for a simple tic-tac-toe game developed with Python!
 
 ### This is a beginner level of the game. It comes as a mini project to test Python knowledge learned so far.
 
-# Thank you!
+## Thank you!
